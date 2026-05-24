@@ -8,6 +8,7 @@ LeetCode Assignments
 | ------- |
 | [0048-rotate-image](https://github.com/Adityadhanavade/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adityadhanavade/LeetCode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Adityadhanavade/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ LeetCode Assignments
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Adityadhanavade/LeetCode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -35,8 +37,29 @@ LeetCode Assignments
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Adityadhanavade/LeetCode/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityadhanavade/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
