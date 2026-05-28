@@ -65,5 +65,6 @@ LeetCode Assignments
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Adityadhanavade/LeetCode/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/Adityadhanavade/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
