@@ -9,6 +9,7 @@ LeetCode Assignments
 | [0048-rotate-image](https://github.com/Adityadhanavade/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adityadhanavade/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adityadhanavade/LeetCode/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Adityadhanavade/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Math
@@ -24,16 +25,19 @@ LeetCode Assignments
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adityadhanavade/LeetCode/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 | [0343-integer-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0343-integer-break) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Adityadhanavade/LeetCode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Adityadhanavade/LeetCode/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityadhanavade/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
@@ -72,4 +76,12 @@ LeetCode Assignments
 | [0511-game-play-analysis-i](https://github.com/Adityadhanavade/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0595-big-countries](https://github.com/Adityadhanavade/LeetCode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Adityadhanavade/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
