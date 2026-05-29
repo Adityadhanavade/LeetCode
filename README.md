@@ -8,6 +8,7 @@ LeetCode Assignments
 | ------- |
 | [0048-rotate-image](https://github.com/Adityadhanavade/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adityadhanavade/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Adityadhanavade/LeetCode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Adityadhanavade/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Math
@@ -22,6 +23,7 @@ LeetCode Assignments
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Adityadhanavade/LeetCode/tree/master/0053-maximum-subarray) |
 | [0343-integer-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0343-integer-break) |
 ## Hash Table
 |  |
@@ -45,6 +47,7 @@ LeetCode Assignments
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Adityadhanavade/LeetCode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
