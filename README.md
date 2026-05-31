@@ -27,6 +27,7 @@ LeetCode Assignments
 | [0053-maximum-subarray](https://github.com/Adityadhanavade/LeetCode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 | [0343-integer-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0343-integer-break) |
+| [0392-is-subsequence](https://github.com/Adityadhanavade/LeetCode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ LeetCode Assignments
 | [0049-group-anagrams](https://github.com/Adityadhanavade/LeetCode/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityadhanavade/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Adityadhanavade/LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +50,7 @@ LeetCode Assignments
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityadhanavade/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Adityadhanavade/LeetCode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
