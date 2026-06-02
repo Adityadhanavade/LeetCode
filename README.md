@@ -41,6 +41,7 @@ LeetCode Assignments
 | [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityadhanavade/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Adityadhanavade/LeetCode/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/Adityadhanavade/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ LeetCode Assignments
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityadhanavade/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Adityadhanavade/LeetCode/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/Adityadhanavade/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -87,4 +89,8 @@ LeetCode Assignments
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Adityadhanavade/LeetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
