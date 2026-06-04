@@ -11,12 +11,14 @@ LeetCode Assignments
 | [0053-maximum-subarray](https://github.com/Adityadhanavade/LeetCode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adityadhanavade/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Adityadhanavade/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adityadhanavade/LeetCode/tree/master/0048-rotate-image) |
 | [0343-integer-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0343-integer-break) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adityadhanavade/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
 | ------- |
@@ -96,4 +98,8 @@ LeetCode Assignments
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Adityadhanavade/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Adityadhanavade/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
