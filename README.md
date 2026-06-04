@@ -42,6 +42,7 @@ LeetCode Assignments
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityadhanavade/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Adityadhanavade/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Adityadhanavade/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1592-rearrange-spaces-between-words](https://github.com/Adityadhanavade/LeetCode/tree/master/1592-rearrange-spaces-between-words) |
 ## Sorting
 |  |
 | ------- |
