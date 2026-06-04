@@ -17,6 +17,7 @@ LeetCode Assignments
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adityadhanavade/LeetCode/tree/master/0048-rotate-image) |
+| [0172-factorial-trailing-zeroes](https://github.com/Adityadhanavade/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0343-integer-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0343-integer-break) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityadhanavade/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
