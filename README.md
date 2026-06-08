@@ -10,6 +10,7 @@ LeetCode Assignments
 | [0049-group-anagrams](https://github.com/Adityadhanavade/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adityadhanavade/LeetCode/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityadhanavade/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityadhanavade/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Adityadhanavade/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
@@ -106,4 +107,8 @@ LeetCode Assignments
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityadhanavade/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityadhanavade/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
