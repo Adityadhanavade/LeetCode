@@ -32,6 +32,7 @@ LeetCode Assignments
 | [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 | [0343-integer-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Adityadhanavade/LeetCode/tree/master/0392-is-subsequence) |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Adityadhanavade/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,4 +113,12 @@ LeetCode Assignments
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityadhanavade/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Adityadhanavade/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Enumeration
+|  |
+| ------- |
+| [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Adityadhanavade/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 <!---LeetCode Topics End-->
