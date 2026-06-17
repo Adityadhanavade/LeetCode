@@ -9,6 +9,7 @@ LeetCode Assignments
 | [0048-rotate-image](https://github.com/Adityadhanavade/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adityadhanavade/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adityadhanavade/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Adityadhanavade/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Adityadhanavade/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityadhanavade/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -26,6 +27,7 @@ LeetCode Assignments
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Adityadhanavade/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Adityadhanavade/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Adityadhanavade/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
@@ -124,4 +126,8 @@ LeetCode Assignments
 |  |
 | ------- |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Adityadhanavade/LeetCode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Adityadhanavade/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
