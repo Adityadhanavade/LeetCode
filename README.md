@@ -6,6 +6,7 @@ LeetCode Assignments
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Adityadhanavade/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Adityadhanavade/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Adityadhanavade/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adityadhanavade/LeetCode/tree/master/0053-maximum-subarray) |
@@ -46,6 +47,7 @@ LeetCode Assignments
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Adityadhanavade/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Adityadhanavade/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Adityadhanavade/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
@@ -100,6 +102,7 @@ LeetCode Assignments
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Adityadhanavade/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 ## Memoization
 |  |
