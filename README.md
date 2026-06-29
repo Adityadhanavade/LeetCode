@@ -53,6 +53,7 @@ LeetCode Assignments
 | [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityadhanavade/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Adityadhanavade/LeetCode/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/Adityadhanavade/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Adityadhanavade/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Adityadhanavade/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1592-rearrange-spaces-between-words](https://github.com/Adityadhanavade/LeetCode/tree/master/1592-rearrange-spaces-between-words) |
