@@ -15,6 +15,7 @@ LeetCode Assignments
 | [0139-word-break](https://github.com/Adityadhanavade/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityadhanavade/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Adityadhanavade/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adityadhanavade/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adityadhanavade/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Adityadhanavade/LeetCode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Math
@@ -57,6 +58,7 @@ LeetCode Assignments
 | [0443-string-compression](https://github.com/Adityadhanavade/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Adityadhanavade/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1592-rearrange-spaces-between-words](https://github.com/Adityadhanavade/LeetCode/tree/master/1592-rearrange-spaces-between-words) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Adityadhanavade/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Sorting
 |  |
 | ------- |
